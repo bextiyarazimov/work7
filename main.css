@@ -1,0 +1,78 @@
+.card{
+    width: 100%;
+}
+.circle_1{
+    width:  200px;
+    margin-left: 400px;
+    margin-top: 150px;
+    height: 200px;
+    background-color:hotpink;
+    border-radius: 50%;
+    position: relative;
+}
+.main{
+    width: 100%;
+}
+.circle_2{
+    width:  250px;
+    margin-left: 500px;
+    margin-top: 3px;
+    height: 250px;
+   background-color:tomato;
+   border-radius: 50%;
+   position:absolute;
+}
+.text{
+    width: 20%;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    position:relative;
+    bottom: 100px;
+ background-color: whitesmoke;
+ border: 1px solid beige;
+margin-left: 450px;
+
+}
+.text_1{
+    width: 20%;
+    text-align: center;
+    position:relative;
+    bottom: 100px;
+ background-color: whitesmoke;
+ border: 1px solid beige;
+margin-left: 450px;
+bottom: 280px;
+}
+.text_2{
+    width: 20%;
+    text-align: center;
+    position:relative;
+    bottom: 100px;
+ background-color: whitesmoke;
+ border: 1px solid beige;
+margin-left: 450px;
+bottom: 270px;
+}
+.text_3{
+    width: 20%;
+    text-align: center;
+    position:relative;
+    bottom: 100px;
+ background-color: whitesmoke;
+ border: 1px solid beige;
+margin-left: 450px;
+bottom: 260px;
+}
+.text_4{
+    width: 20%;
+    text-align: center;
+    position:relative;
+    bottom: 100px;
+ border: 1px solid beige;
+margin-left: 450px;
+bottom: 255px;
+background-color: red;
+}
+
+
